@@ -1,0 +1,3 @@
+s=("example.txt")
+for each in s:
+	print(each)

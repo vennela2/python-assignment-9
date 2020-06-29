@@ -1,0 +1,4 @@
+s=open("example.txt","v")
+s.write("hi")
+s.write("welcome to our home")
+print(s.read())

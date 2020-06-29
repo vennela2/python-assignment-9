@@ -1,0 +1,6 @@
+str="python programming"
+str1=str.rstrip('m')
+str2=str.lstrip('p')
+print("old string:",str)
+print("new string:",str1)
+print("new string is:",str2)

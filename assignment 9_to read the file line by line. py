@@ -1,0 +1,3 @@
+s=("example.txt")
+data=s.readlines()
+print(data)
